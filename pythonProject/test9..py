@@ -1,4 +1,8 @@
 # EXERCISE - 2 (FAULTY CALCULATOR)
+"""
+calculator will give fault for following calculations
+56 + 9 = 77; 45 * 3 = 555; 56 / 6 = 4
+"""
 
 i1 = int(input("Enter first number : "))
 i2 = int(input("Enter second number : "))
